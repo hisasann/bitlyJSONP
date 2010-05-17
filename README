@@ -1,0 +1,3 @@
+bitlyAPI経由でURLを短縮します
+例：
+http://hisasann.sakura.ne.jp/bitlyJSONP/bitly/convert?url=http://hisasann.com/&callback=hoge
